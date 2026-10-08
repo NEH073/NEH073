@@ -1,16 +1,69 @@
-## Hi there 👋
+# Hi, I'm Neha 👋
 
-<!--
-**NEH073/NEH073** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Software Engineer | React | Python | FastAPI | GenAI | LangGraph
 
-Here are some ideas to get you started:
+I build **web applications, backend services, and AI-powered applications** using modern development and GenAI technologies.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Tech Stack
+
+**Frontend**
+
+* React
+* JavaScript
+* HTML
+* CSS
+
+**Backend**
+
+* Python
+* FastAPI
+* REST APIs
+
+**Databases**
+
+* PostgreSQL
+* SQL
+* MongoDB
+
+**AI / GenAI**
+
+* LLMs
+* RAG
+* LangChain
+* LangGraph
+* AI Agents
+* Prompt Engineering
+
+**DevOps & Tools**
+
+* Git
+* GitHub
+* Docker
+* CI/CD
+
+## 🚀 Featured Projects
+
+### 🔹 Enterprise Incident Management
+
+Full-stack incident management application focused on managing enterprise IT incidents.
+
+**Tech:** React • Python • FastAPI • PostgreSQL • Docker
+
+### 🔹 Event Deep Research
+
+AI-powered research system built with LangGraph that performs iterative research, tool calling, web research, and structured event extraction.
+
+**Tech:** Python • LangGraph • LangChain • LLMs • Tavily • Firecrawl
+
+### 🔹 AI / RAG Applications
+
+Building applications using retrieval-augmented generation, LLMs, and agentic workflows.
+
+## 📚 Currently Learning
+
+React • Advanced Python • FastAPI • LangChain • LangGraph • RAG • AI Agents • Docker
+
+## 🤝 Let's Connect
+
+[LinkedIn]www.linkedin.com/in/neha-r-006735253
+
