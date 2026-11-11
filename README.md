@@ -1,69 +1,72 @@
-# Hi, I'm Neha 👋
+# Neha R. | AI Engineer & Software Engineer
 
-### Software Engineer | React | Python | FastAPI | GenAI | LangGraph
+Building reliable Python applications, AI agents, and backend systems.
 
-I build **web applications, backend services, and AI-powered applications** using modern development and GenAI technologies.
+I’m a software engineer with 2 years of professional experience at Capgemini, focused on Python backend development and practical Generative AI engineering. I enjoy turning ambiguous problems into structured workflows, well-designed APIs, and testable applications.
 
-## 🛠️ Tech Stack
+- **Focus:** AI agents, LLM applications, Python backend engineering
+- **Core stack:** Python, FastAPI, LangGraph, LangChain, Gemini, React, PostgreSQL
+- **Engineering practices:** REST API design, structured outputs, automated testing, Docker, CI
+- **Location:** Bengaluru, India
 
-**Frontend**
+## Featured work
 
-* React
-* JavaScript
-* HTML
-* CSS
+### 1. [TYN Release Evidence Agent](https://github.com/NEH073/tyn-release-evidence-agent)
+An evidence-grounded release-readiness agent that investigates Jira issues, comments, and relationships to assess software release requirements. It produces requirement-level decisions and an auditable assessment report, including an explicit insufficient-evidence outcome.
 
-**Backend**
+**Built with:** Python 3.12 · LangGraph · LangChain · Gemini · Jira Cloud · Pytest
 
-* Python
-* FastAPI
-* REST APIs
+**Engineering highlights**
+- Dataset-scoped Jira retrieval and evidence investigation
+- Structured decision validation and conservative failure handling
+- Bounded retries, pagination, and assessment trace artifacts
+- **43 tests passing** in the latest recorded test run
 
-**Databases**
+### 2. [Event Deep Research](https://github.com/NEH073/event-deep-research)
+A multi-step research system that discovers company information, crawls web sources, extracts events, merges duplicates, and produces a structured chronology.
 
-* PostgreSQL
-* SQL
-* MongoDB
+**Built with:** Python · LangGraph · LangChain · Tavily · Firecrawl · Pydantic
 
-**AI / GenAI**
+**Engineering highlights**
+- Supervisor-based workflow orchestration
+- Specialized research, crawling, chunk-processing, and merge workflows
+- Structured event extraction and deduplication
 
-* LLMs
-* RAG
-* LangChain
-* LangGraph
-* AI Agents
-* Prompt Engineering
+### 3. [Enterprise Incident Management](https://github.com/NEH073/enterprise-incident-management)
+A full-stack incident management application with user and admin workflows, secure authentication, and incident lifecycle operations.
 
-**DevOps & Tools**
+**Built with:** React · FastAPI · PostgreSQL · SQLAlchemy · JWT · Docker Compose
 
-* Git
-* GitHub
-* Docker
-* CI/CD
+**Engineering highlights**
+- REST APIs for incident creation, updates, filtering, and assignment
+- JWT authentication and role-based authorization
+- Docker Compose setup and GitHub Actions CI
+- **10 backend tests passing** in the documented test run
 
-## 🚀 Featured Projects
+## Technical toolkit
 
-### 🔹 Enterprise Incident Management
+| Area | Technologies |
+|---|---|
+| Languages | Python, JavaScript, SQL |
+| Backend | FastAPI, REST APIs, SQLAlchemy, Pydantic |
+| Frontend | React, HTML, CSS |
+| AI engineering | Gemini, LLM APIs, LangChain, LangGraph, RAG, AI agents |
+| Data | PostgreSQL, MongoDB |
+| Quality & delivery | Pytest, Docker, Git, GitHub Actions |
 
-Full-stack incident management application focused on managing enterprise IT incidents.
+## How I approach engineering
 
-**Tech:** React • Python • FastAPI • PostgreSQL • Docker
+- Prefer clear, modular designs over unnecessary complexity.
+- Validate inputs and model outputs with explicit schemas.
+- Treat missing evidence as unknown rather than inventing certainty.
+- Test important behavior, authorization boundaries, and failure paths.
+- Document setup, architecture, trade-offs, and known limitations.
 
-### 🔹 Event Deep Research
+## Connect
 
-AI-powered research system built with LangGraph that performs iterative research, tool calling, web research, and structured event extraction.
+- [LinkedIn](https://www.linkedin.com/in/neha-r-006735253)
+- [GitHub repositories](https://github.com/NEH073?tab=repositories)
 
-**Tech:** Python • LangGraph • LangChain • LLMs • Tavily • Firecrawl
+---
 
-### 🔹 AI / RAG Applications
-
-Building applications using retrieval-augmented generation, LLMs, and agentic workflows.
-
-## 📚 Currently Learning
-
-React • Advanced Python • FastAPI • LangChain • LangGraph • RAG • AI Agents • Docker
-
-## 🤝 Let's Connect
-
-[LinkedIn]www.linkedin.com/in/neha-r-006735253
-
+*Interested in AI Engineer, GenAI Engineer, and Python Backend opportunities.*
