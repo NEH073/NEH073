@@ -1,4 +1,4 @@
-# Neha R. | AI Engineer & Software Engineer
+# Neha R | AI Engineer & Software Engineer
 
 Building reliable Python applications, AI agents, and backend systems.
 
