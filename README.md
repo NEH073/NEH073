@@ -32,7 +32,17 @@ A multi-step research system that discovers company information, crawls web sour
 - Specialized research, crawling, chunk-processing, and merge workflows
 - Structured event extraction and deduplication
 
-### 3. [Enterprise Incident Management](https://github.com/NEH073/enterprise-incident-management)
+### 3. [Customer Churn Prediction](https://github.com/NEH073/customer-churn-prediction)
+A machine learning project that estimates telecom customer churn risk, with an interactive Streamlit application and a FastAPI prediction API.
+
+**Built with:** Python · Pandas · Scikit-learn · FastAPI · Streamlit · Docker
+
+**Engineering highlights**
+- Reproducible preprocessing and stratified model evaluation
+- Class-imbalance handling and decision-threshold experiments
+- Interactive prediction interface and API-based inference
+
+### 4. [Enterprise Incident Management](https://github.com/NEH073/enterprise-incident-management)
 A full-stack incident management application with user and admin workflows, secure authentication, and incident lifecycle operations.
 
 **Built with:** React · FastAPI · PostgreSQL · SQLAlchemy · JWT · Docker Compose
@@ -51,7 +61,7 @@ A full-stack incident management application with user and admin workflows, secu
 | Backend | FastAPI, REST APIs, SQLAlchemy, Pydantic |
 | Frontend | React, HTML, CSS |
 | AI engineering | Gemini, LLM APIs, LangChain, LangGraph, RAG, AI agents |
-| Data | PostgreSQL, MongoDB |
+| Data & ML | PostgreSQL, MongoDB, Pandas, NumPy, Scikit-learn |
 | Quality & delivery | Pytest, Docker, Git, GitHub Actions |
 
 ## How I approach engineering
